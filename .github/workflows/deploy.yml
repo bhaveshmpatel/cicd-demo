@@ -12,19 +12,20 @@ jobs:
 
     steps:
       - name: Checkout the code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      - name: Execute remote SSH commands using password
-        uses: appleboy/ssh-action@v1
+      - name: Execute remote SSH commands using key
+        uses: appleboy/ssh-action@v1.0.3
         with:
           host: 13.204.83.147
           username: ubuntu
           key: ${{ secrets.PRIVATE_SSH_KEY }}
           port: 22
           script: |
-            cd cicd-demo
-            git pull
+            export PATH=$PATH:/home/ubuntu/.nvm/versions/node/v24.12.0/bin
+            
+            cd ~/cicd-demo
+            git pull origin main
             npm install
             npm run build
             npm run start
-        
