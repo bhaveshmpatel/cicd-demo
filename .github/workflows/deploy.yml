@@ -28,4 +28,4 @@ jobs:
             git pull origin main
             npm install
             npm run build
-            npm run start
+            pm2 restart cicd-app || pm2 start npm --name "cicd-app" -- start
