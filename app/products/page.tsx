@@ -8,42 +8,42 @@ const allProducts = [
     id: 1,
     title: "Royal Kashmiri Carpet",
     price: "Price on Request",
-    image: "https://images.unsplash.com/photo-1596230529625-7ee541366931?q=80&w=2680&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1600166898405-da9535204843?q=80&w=2680&auto=format&fit=crop",
     category: "Carpets"
   },
   {
     id: 2,
     title: "Colonial Teak Chair",
     price: "Price on Request",
-    image: "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=2670&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1592078615290-033ee584e267?q=80&w=2670&auto=format&fit=crop",
     category: "Furniture"
   },
   {
     id: 3,
     title: "Hand-Painted Vase",
     price: "Price on Request",
-    image: "https://images.unsplash.com/photo-1615529182904-14819c35db37?q=80&w=2680&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1579762715118-a6f1d4b934f1?q=80&w=2680&auto=format&fit=crop",
     category: "Decor"
   },
   {
     id: 4,
     title: "Silk Embroidered Throw",
     price: "Price on Request",
-    image: "https://images.unsplash.com/photo-1629088102371-d45c58bb0e08?q=80&w=2574&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1528458909336-e7a0adfed0a5?q=80&w=2574&auto=format&fit=crop",
     category: "Textiles"
   },
   {
     id: 5,
     title: "Brass Vintage Lamp",
     price: "Price on Request",
-    image: "https://images.unsplash.com/photo-1543187178-5a7ac87f6311?q=80&w=2670&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1517991104123-1d56a6e81ed9?q=80&w=2670&auto=format&fit=crop",
     category: "Decor"
   },
    {
     id: 6,
     title: "Rosewood Dining Table",
     price: "Price on Request",
-    image: "https://images.unsplash.com/photo-1606776106297-f5dc7da9338f?q=80&w=2674&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1615873968403-89e068629265?q=80&w=2674&auto=format&fit=crop",
     category: "Furniture"
   }
 ];

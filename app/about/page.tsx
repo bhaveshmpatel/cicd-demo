@@ -9,7 +9,7 @@ export default function About() {
       
       {/* Page Header */}
       <div className="relative pt-32 pb-16 md:pt-48 md:pb-24 px-6 text-center bg-stone-950">
-        <div className="absolute inset-0 z-0 opacity-20 bg-[url('https://images.unsplash.com/photo-1590059390492-d54c4245b374?q=80&w=2670&auto=format&fit=crop')] bg-cover bg-center" />
+        <div className="absolute inset-0 z-0 opacity-20 bg-[url('https://images.unsplash.com/photo-1583096114844-065dc69bc283?q=80&w=2670&auto=format&fit=crop')] bg-cover bg-center" />
         <div className="absolute inset-0 bg-gradient-to-b from-stone-950/80 to-stone-950 z-0" />
         
         <div className="relative z-10">
@@ -23,7 +23,7 @@ export default function About() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
           <div className="relative aspect-square md:aspect-[4/5]">
             <Image 
-              src="https://images.unsplash.com/photo-1560183188-444453535efd?q=80&w=2693&auto=format&fit=crop"
+              src="https://images.unsplash.com/photo-1459411621453-7b03977f9bfc?q=80&w=2693&auto=format&fit=crop"
               alt="Artisan at work"
               fill
               className="object-cover"

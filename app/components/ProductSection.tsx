@@ -10,21 +10,21 @@ const products = [
     id: 1,
     title: "Kashmiri Silk Carpets",
     category: "Carpets",
-    image: "https://images.unsplash.com/photo-1596230529625-7ee541366931?q=80&w=2680&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1600166898405-da9535204843?q=80&w=2680&auto=format&fit=crop",
     description: "Hand-knotted masterpieces with intricate patterns."
   },
   {
     id: 2,
     title: "Teak Wood Heritage Sofa",
     category: "Furniture",
-    image: "https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=2670&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1592078615290-033ee584e267?q=80&w=2670&auto=format&fit=crop",
     description: "Colonial style furniture crafted from seasoned teak."
   },
   {
     id: 3,
     title: "Jaipur Blue Pottery",
     category: "Decor",
-    image: "https://images.unsplash.com/photo-1615529182904-14819c35db37?q=80&w=2680&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1579762715118-a6f1d4b934f1?q=80&w=2680&auto=format&fit=crop",
     description: "Vibrant glazed pottery with traditional motifs."
   }
 ];
