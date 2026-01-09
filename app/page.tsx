@@ -16,7 +16,7 @@ export default function Home() {
         <div className="container mx-auto px-6 text-center">
            <h2 className="text-3xl md:text-4xl font-serif text-white mb-8">Decades of Excellence</h2>
            <p className="text-stone-400 max-w-3xl mx-auto text-lg leading-relaxed font-light">
-             For over 20 years, Patel Exports has been the bridge between India's royal heritage and modern luxury homes worldwide. 
+             For over 50 years, Patel Exports has been the bridge between India's royal heritage and modern luxury homes worldwide. 
              Every piece we export is a testament to the skilled hands of our master artisans.
            </p>
         </div>
